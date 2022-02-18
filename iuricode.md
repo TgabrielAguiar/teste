@@ -14,7 +14,7 @@
 
 ### Visão Geral
 
-O desafio é composto de três questões, que podem ser acessadas nesse [link].(https://docs.google.com/document/u/0/d/1fAzE01t6hEyg8JrbRo7vOA3K2W-NYisF/mobilebasic)
+O desafio é composto de três questões, que podem ser acessadas nesse [link](https://docs.google.com/document/u/0/d/1fAzE01t6hEyg8JrbRo7vOA3K2W-NYisF/mobilebasic).
 
 - [x] Questão 1
 - [x] Questão 2
