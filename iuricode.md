@@ -10,17 +10,16 @@
 
 <img src="logo-capgemini.png" alt="logo capgemini">
 
-> Repositório criado para mostrar a resolução dos desefios propostos 
+> Repositório criado para mostrar a resolução dos desafios propostos na seleção da academia técnica de java capgemini. 
 
-### Ajustes e melhorias
+### Visão Geral
 
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
+O desafio é composto de três questões, que podem ser acessadas nesse [link].(https://docs.google.com/document/u/0/d/1fAzE01t6hEyg8JrbRo7vOA3K2W-NYisF/mobilebasic)
 
-- [x] Tarefa 1
-- [x] Tarefa 2
-- [x] Tarefa 3
-- [ ] Tarefa 4
-- [ ] Tarefa 5
+- [x] Questão 1
+- [x] Questão 2
+- [x] Questão 3
+
 
 ## 💻 Pré-requisitos
 
