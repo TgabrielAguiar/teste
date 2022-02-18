@@ -7,11 +7,13 @@
 
 ### Visão Geral
 
-Foi desenvolvido a solução para o desafio utilizando a linguagem de programação JAVA e o editor de texto VScode. O desafio é composto de três questões, que podem ser acessadas nesse [link](https://docs.google.com/document/u/0/d/1fAzE01t6hEyg8JrbRo7vOA3K2W-NYisF/mobilebasic).
+. O desafio é composto de três questões, que podem ser acessadas nesse [link](https://docs.google.com/document/u/0/d/1fAzE01t6hEyg8JrbRo7vOA3K2W-NYisF/mobilebasic).
 
-- [x] Questão 1
-- [x] Questão 2
-- [x] Questão 3
+
+
+### Tecnologias
+Foi desenvolvido a solução para o desafio utilizando a linguagem de programação JAVA e o editor de texto VScode
+
 
 
 ## 💻 Pré-requisitos
@@ -32,18 +34,18 @@ $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 ```
 Acesse a pasta do clonada do repositório e abra um terminal neste caminho, pode ser powershell, terminal linux, cmd, gitbash ou outro.
 
-Use o comando javac para compilar o programa.
+Use o comando javac para compilar o programa.<br>
 Ex: Para excutar a QuestaoUm, digite:
 ```
 $ javac QuestaoUm.java
 ```
-Em seguida, digite o comando java e o nome da questao a ser executada.
+Em seguida, digite o comando java e o nome da questao a ser executada.<br>
 Ex: Para rodar a QuestaoUm, digite:
 ```
 $ java QuestaoUm
 ```
 
-Adicione comandos de execução e exemplos que você acha que os usuários acharão úteis. Fornece uma referência de opções para pontos de bônus!
+Você também pode rodar os programas na sua IDE preferida.
 
 ## 📫 Contribuindo para <nome_do_projeto>
 <!---Se o seu README for longo ou se você tiver algum processo ou etapas específicas que deseja que os contribuidores sigam, considere a criação de um arquivo CONTRIBUTING.md separado--->
