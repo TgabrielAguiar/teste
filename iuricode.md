@@ -7,7 +7,7 @@
 
 ### Visão Geral
 
-O desafio é composto de três questões, que podem ser acessadas nesse [link](https://docs.google.com/document/u/0/d/1fAzE01t6hEyg8JrbRo7vOA3K2W-NYisF/mobilebasic).
+Foi desenvolvido a solução para o desafio utilizando a linguagem de programação JAVA e o editor de texto VScode. O desafio é composto de três questões, que podem ser acessadas nesse [link](https://docs.google.com/document/u/0/d/1fAzE01t6hEyg8JrbRo7vOA3K2W-NYisF/mobilebasic).
 
 - [x] Questão 1
 - [x] Questão 2
@@ -19,7 +19,7 @@ O desafio é composto de três questões, que podem ser acessadas nesse [link](h
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 <!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
 * Você instalou a Java JDK, caso não tenha instalado pode baixar nesse [link](https://www.oracle.com/java/technologies/downloads/).
-* Você tem uma máquina `<Windows / Linux / Mac>`. Indique qual sistema operacional é compatível / não compatível.
+* Ter uma máquina compatível `<Windows / Linux / Mac>` ou equivalente.
 * Você leu `<guia / link / documentação_relacionada_ao_projeto>`.
 
 
@@ -29,6 +29,18 @@ Para testas as <Questões>, siga estas etapas:
 Clone o repositório.
 ```
 $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+```
+Acesse a pasta do clonada do repositório e abra um terminal neste caminho, pode ser powershell, terminal linux, cmd, gitbash ou outro.
+
+Use o comando javac para compilar o programa.
+Ex: Para excutar a QuestaoUm, digite:
+```
+$ javac QuestaoUm.java
+```
+Em seguida, digite o comando java e o nome da questao a ser executada.
+Ex: Para rodar a QuestaoUm, digite:
+```
+$ java QuestaoUm
 ```
 
 Adicione comandos de execução e exemplos que você acha que os usuários acharão úteis. Fornece uma referência de opções para pontos de bônus!
